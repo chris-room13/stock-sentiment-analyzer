@@ -1,0 +1,14 @@
+streamlit==1.24.1
+pandas==1.5.3
+plotly==5.11.0
+yfinance==0.2.25
+transformers==4.33.2
+torch==2.0.1
+sentencepiece==0.1.99
+requests==2.31.0
+nltk==3.8.1
+certifi==2024.4.20
+python-dotenv
+praw
+wordcloud
+matplotlib
